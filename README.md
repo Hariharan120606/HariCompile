@@ -47,7 +47,7 @@ python app.py
 ### 4. Open the compiler
 Visit: **http://localhost:5000**
 
-> ⚠️ Open via `http://localhost:5000`, NOT by double-clicking compiler.html,
+> Open via `http://localhost:5000`, NOT by double-clicking compiler.html,
 > otherwise the browser will block API calls to Flask.
 
 ## Supported Languages
