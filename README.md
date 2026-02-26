@@ -1,6 +1,6 @@
-# HariCompile 🚀
+# HariCompile 
 
-A full-featured online compiler powered by a local Flask backend.
+A full-featured online compiler powered by a local Flask backend. Made by me(https://in.linkedin.com/in/hariharan-ganesh-001theone)
 
 ## Files
 ```
@@ -53,12 +53,12 @@ Visit: **http://localhost:5000**
 ## Supported Languages
 | Language   | Runtime     | Status       |
 |------------|-------------|--------------|
-| Python     | python3     | ✅ Always available |
-| JavaScript | node        | ✅ Always available |
-| C / C++    | g++         | ✅ Needs g++  |
-| Java       | javac + java| ✅ Needs JDK  |
-| Go         | go run      | ⚡ Needs Go   |
-| Rust       | rustc       | ⚡ Needs Rust |
+| Python     | python3     |  Always available |
+| JavaScript | node        |  Always available |
+| C / C++    | g++         |  Needs g++  |
+| Java       | javac + java|  Needs JDK  |
+| Go         | go run      |  Needs Go   |
+| Rust       | rustc       |  Needs Rust |
 
 ## API Endpoints
 - `POST /api/run` — compile & run code
